@@ -1,0 +1,1 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/briancep/From-National-Statistics-to-Big-Data-2024-25/HEAD?urlpath=https%3A%2F%2Fgithub.com%2Fbriancep%2FFrom-National-Statistics-to-Big-Data-2024-25%2Fblob%2Fmain%2FExample_11_09_2024.ipynb)
